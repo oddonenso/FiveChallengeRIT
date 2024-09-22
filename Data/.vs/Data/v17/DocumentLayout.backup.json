@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superclientrit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|solutionrelative:superclientrit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superclientrit\\classes\\holepointclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|solutionrelative:superclientrit\\classes\\holepointclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superclientrit\\classes\\holeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|solutionrelative:superclientrit\\classes\\holeclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superclientrit\\classes\\drillblockpointclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|solutionrelative:superclientrit\\classes\\drillblockpointclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superclientrit\\classes\\drillblockclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|solutionrelative:superclientrit\\classes\\drillblockclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superclientrit\\classes\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F45D31-AD7D-4645-94F2-DA681BA21650}|SuperClientRIT\\SuperClientRIT.csproj|solutionrelative:superclientrit\\classes\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superserverrit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|solutionrelative:superserverrit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superserverrit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|solutionrelative:superserverrit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superserverrit\\controllers\\driilblockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|solutionrelative:superserverrit\\controllers\\driilblockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superserverrit\\controllers\\holescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|solutionrelative:superserverrit\\controllers\\holescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superserverrit\\controllers\\holepointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|solutionrelative:superserverrit\\controllers\\holepointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\superserverrit\\controllers\\drillblockpointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70F7624-79B0-480C-8F0C-C327308B8B29}|SuperServerRIT\\SuperServerRIT.csproj|solutionrelative:superserverrit\\controllers\\drillblockpointscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\data\\tables\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|solutionrelative:data\\tables\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\data\\tables\\drillblockpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|solutionrelative:data\\tables\\drillblockpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\data\\migrations\\20240921132458_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240921132458_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\data\\tables\\holepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|solutionrelative:data\\tables\\holepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\data\\tables\\hole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|solutionrelative:data\\tables\\hole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\data\\tables\\drillblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|solutionrelative:data\\tables\\drillblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|c:\\users\\oddone\\desktop\\\u0443\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430rit\\data\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD61394C-9A11-4999-AE28-ACCD7AF3656D}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Program.cs",
+              "RelativeDocumentMoniker": "SuperClientRIT\\Program.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Program.cs",
+              "RelativeToolTip": "SuperClientRIT\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:30:12.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Classes\\ApiClient.cs",
+              "RelativeDocumentMoniker": "SuperClientRIT\\Classes\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Classes\\ApiClient.cs",
+              "RelativeToolTip": "SuperClientRIT\\Classes\\ApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:46:10.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DrillBlockClient.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Classes\\DrillBlockClient.cs",
+              "RelativeDocumentMoniker": "SuperClientRIT\\Classes\\DrillBlockClient.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Classes\\DrillBlockClient.cs",
+              "RelativeToolTip": "SuperClientRIT\\Classes\\DrillBlockClient.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:53:22.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrillBlockPointClient.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Classes\\DrillBlockPointClient.cs",
+              "RelativeDocumentMoniker": "SuperClientRIT\\Classes\\DrillBlockPointClient.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Classes\\DrillBlockPointClient.cs",
+              "RelativeToolTip": "SuperClientRIT\\Classes\\DrillBlockPointClient.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA/wC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:59:49.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoleClient.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Classes\\HoleClient.cs",
+              "RelativeDocumentMoniker": "SuperClientRIT\\Classes\\HoleClient.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Classes\\HoleClient.cs",
+              "RelativeToolTip": "SuperClientRIT\\Classes\\HoleClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:59:26.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HolePointClient.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Classes\\HolePointClient.cs",
+              "RelativeDocumentMoniker": "SuperClientRIT\\Classes\\HolePointClient.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperClientRIT\\Classes\\HolePointClient.cs",
+              "RelativeToolTip": "SuperClientRIT\\Classes\\HolePointClient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T05:00:31.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\appsettings.json",
+              "RelativeDocumentMoniker": "SuperServerRIT\\appsettings.json",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\appsettings.json",
+              "RelativeToolTip": "SuperServerRIT\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-21T13:38:31.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\Program.cs",
+              "RelativeDocumentMoniker": "SuperServerRIT\\Program.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\Program.cs",
+              "RelativeToolTip": "SuperServerRIT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T05:19:01.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DriilBlocksController.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\Controllers\\DriilBlocksController.cs",
+              "RelativeDocumentMoniker": "SuperServerRIT\\Controllers\\DriilBlocksController.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\Controllers\\DriilBlocksController.cs",
+              "RelativeToolTip": "SuperServerRIT\\Controllers\\DriilBlocksController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:48:01.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\Controllers\\HolesController.cs",
+              "RelativeDocumentMoniker": "SuperServerRIT\\Controllers\\HolesController.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\Controllers\\HolesController.cs",
+              "RelativeToolTip": "SuperServerRIT\\Controllers\\HolesController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:14:23.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HolePointsController.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\Controllers\\HolePointsController.cs",
+              "RelativeDocumentMoniker": "SuperServerRIT\\Controllers\\HolePointsController.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\Controllers\\HolePointsController.cs",
+              "RelativeToolTip": "SuperServerRIT\\Controllers\\HolePointsController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:23:59.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DrillBlockPointsController.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\Controllers\\DrillBlockPointsController.cs",
+              "RelativeDocumentMoniker": "SuperServerRIT\\Controllers\\DrillBlockPointsController.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\SuperServerRIT\\Controllers\\DrillBlockPointsController.cs",
+              "RelativeToolTip": "SuperServerRIT\\Controllers\\DrillBlockPointsController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAYwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T04:16:23.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Tables\\Connection.cs",
+              "RelativeDocumentMoniker": "Data\\Tables\\Connection.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Tables\\Connection.cs",
+              "RelativeToolTip": "Data\\Tables\\Connection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:12:30.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DrillBlockPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Tables\\DrillBlockPoint.cs",
+              "RelativeDocumentMoniker": "Data\\Tables\\DrillBlockPoint.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Tables\\DrillBlockPoint.cs",
+              "RelativeToolTip": "Data\\Tables\\DrillBlockPoint.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:08:12.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240921132458_Initiall.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Migrations\\20240921132458_Initiall.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240921132458_Initiall.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Migrations\\20240921132458_Initiall.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240921132458_Initiall.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:24:58.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HolePoint.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Tables\\HolePoint.cs",
+              "RelativeDocumentMoniker": "Data\\Tables\\HolePoint.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Tables\\HolePoint.cs",
+              "RelativeToolTip": "Data\\Tables\\HolePoint.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:12:05.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hole.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Tables\\Hole.cs",
+              "RelativeDocumentMoniker": "Data\\Tables\\Hole.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Tables\\Hole.cs",
+              "RelativeToolTip": "Data\\Tables\\Hole.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:06:38.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DrillBlock.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Tables\\DrillBlock.cs",
+              "RelativeDocumentMoniker": "Data\\Tables\\DrillBlock.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Tables\\DrillBlock.cs",
+              "RelativeToolTip": "Data\\Tables\\DrillBlock.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:03:49.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\Oddone\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\5\u0437\u0430\u0434\u0430\u0447\u0430RIT\\Data\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T13:02:24.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
